@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+D:\Programacion\Java\Codo a Codo Java\New Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1776766068.index
+0.index
+1331529116.index
+2376499270.index
+2998743372.index
+2370469187.index
+3087634587.index
+2966627752.index
+1210783388.index
+2998743372.index
+824394019.index
+3216311539.index

@@ -1,0 +1,156 @@
+@charset "ISO-8859-1";
+.navbar-nav {
+    margin-left: auto;
+}
+
+.back-nav{
+    background-color: #f1f1f1;
+}
+
+
+.carousel-item img {
+    max-height: 60%; /* Ajusta el porcentaje del alto deseado */
+    
+    height: auto;
+}
+
+
+.search-container {
+    max-width: 300px; /* Ajusta el ancho máximo según tus preferencias */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+.imagen-producto {
+    max-width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: 200px; /* Establece una altura fija (ajusta según tus preferencias) */
+    object-fit: cover; /* Mantiene la relación de aspecto y cubre el contenedor */
+    width: 100%; /* Establece un ancho del 100% para asegurar un tamaño uniforme */
+}
+
+/* Estilo CSS para la tarjeta en estado normal */
+.card {
+    transition: box-shadow 0.3s; /* Agrega una transición suave para el efecto de sombra */
+    box-shadow: 0 0 10px #ffa5b3; /* Sombra suave en el estado normal */
+}
+
+/* Estilo CSS para la tarjeta en estado hover (cursor sobre la tarjeta) */
+.card:hover {
+    box-shadow: 0 0 20px #fa5c74; /* Sombra más pronunciada en hover */
+}
+
+.footer {
+    padding: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    background-color: #eee;
+    color: #000;
+
+}
+
+.footer-title {
+    margin: 10px 0 5px
+}
+
+.footer-payship-img {
+    margin-right: 10px; 
+    padding: 7px; 
+    display: inline-block;
+}
+
+.fuente{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+.boton-ingresar{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.fuente-carrusel {
+    color: #000;
+}
+
+.fuente-cards{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #434343
+}
+
+.fuente-precio{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+.fuente-descripcion{
+    color: #ffa5b3;
+}
+
+
+.links-nav {
+    background: #ffa5b3;
+    color: #434343
+}
+
+.links-nav a:hover {
+    color:#f1f1f1;
+ }
+
+
+.ancho-nav{
+min-height: 40px;
+}
+
+.button{
+    background: #ffa5b3;
+    color: #434343
+}
+
+.boton-registrarse{
+    background: #ffa5b3;
+    color: #434343
+}
+
+.cortes{
+    background-color:#333;
+}
+
+.cortes-rosa{
+    background: #ffa5b3;
+    color: #434343
+}
+
+
+/* Estilo del modal */
+.modal {
+   
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: rgb(245, 205, 205);
+    margin: 10% auto;
+    padding: 20px;
+    width: 80%;
+}
+
+.fuente-modal{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.close {
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
