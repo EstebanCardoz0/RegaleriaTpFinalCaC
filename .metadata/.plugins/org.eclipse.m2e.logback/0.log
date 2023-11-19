@@ -308,3 +308,317 @@
 2023-11-18 01:07:16,006 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
 2023-11-18 01:07:16,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-11-18 01:07:16,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 11:42:48,680 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-18 11:42:53,112 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-11-18 12:12:24,649 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:12:24,660 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 12:12:24,668 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:12:24,669 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 12:12:28,279 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:12:28,280 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 12:12:28,284 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:12:28,284 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 12:16:45,491 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:16:45,492 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 12:16:45,495 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:16:45,495 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 12:42:36,672 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:42:36,673 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 12:42:36,675 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:42:36,675 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 12:55:33,790 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:55:33,790 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 12:55:33,792 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 12:55:33,792 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 13:22:26,312 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 13:22:26,312 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 13:22:26,316 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 13:22:26,317 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:05:08,793 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:05:08,815 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:05:08,824 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:05:08,824 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:23:20,647 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:23:20,651 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:23:20,659 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:23:20,660 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:24:05,549 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:24:05,549 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:24:05,553 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:24:05,554 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:37:17,475 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:37:17,475 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:37:17,482 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:37:17,482 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:37:46,877 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:37:46,877 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:37:46,880 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:37:46,880 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:39:02,756 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:39:02,757 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:39:02,762 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:39:02,762 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:39:09,808 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:39:09,808 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:39:09,811 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:39:09,811 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:40:59,661 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:40:59,662 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:40:59,666 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:40:59,666 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:41:05,861 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:41:05,861 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:41:05,865 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:41:05,866 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:41:10,969 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:41:10,970 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:41:10,974 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:41:10,974 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:43:50,560 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:43:50,560 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:43:50,574 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:43:50,574 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:44:14,782 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:44:14,782 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:44:14,790 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:44:14,790 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 16:44:52,052 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:44:52,052 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 16:44:52,055 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 16:44:52,056 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 18:16:26,557 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:16:26,568 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 18:16:26,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:16:26,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 18:16:57,857 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:16:57,857 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 18:16:57,861 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:16:57,861 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 18:18:24,979 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:18:24,979 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 18:18:24,982 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 18:18:24,982 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:48:54,493 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:48:54,494 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:48:54,497 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:48:54,497 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:49:24,810 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:49:24,811 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:49:24,816 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:49:24,817 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:51:24,359 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:51:24,362 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:51:24,366 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:51:24,366 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:52:05,288 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:52:05,288 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:52:05,295 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:52:05,295 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:53:09,835 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:53:09,835 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:53:09,837 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:53:09,837 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:55:03,386 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:55:03,386 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:55:03,388 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:55:03,389 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 19:55:38,607 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:55:38,608 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 19:55:38,613 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 19:55:38,613 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:00:19,342 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:00:19,342 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:00:19,344 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:00:19,344 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:03:20,066 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:03:20,066 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:03:20,070 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:03:20,070 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:05:06,347 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:05:06,350 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:05:06,359 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:05:06,360 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:06:08,384 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:06:08,385 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:06:08,386 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:06:08,387 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:06:32,300 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:06:32,300 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:06:32,302 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:06:32,303 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:07:21,950 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:07:21,950 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:07:21,955 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:07:21,955 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:07:30,878 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:07:30,878 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:07:30,881 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:07:30,881 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:08:08,412 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:08:08,413 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:08:08,415 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:08:08,415 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:08:25,157 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:08:25,158 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:08:25,165 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:08:25,166 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:19:22,944 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:19:22,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:19:23,018 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:19:23,019 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:20:28,993 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:20:28,994 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:20:28,999 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:20:28,999 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:24:08,638 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:24:08,639 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:24:08,643 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:24:08,643 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:26:46,820 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:26:46,820 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:26:46,827 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:26:46,827 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:27:32,821 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:27:32,822 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:27:32,824 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:27:32,825 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:32:12,890 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:32:12,892 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:32:12,897 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:32:12,897 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:32:50,714 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:32:50,714 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:32:50,716 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:32:50,717 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:33:06,857 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:33:06,857 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:33:06,860 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:33:06,860 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:34:10,047 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:34:10,047 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:34:10,050 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:34:10,051 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:35:45,754 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:35:45,754 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:35:45,757 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:35:45,757 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:37:18,657 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:37:18,657 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:37:18,659 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:37:18,660 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:37:52,082 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:37:52,082 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:37:52,090 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:37:52,091 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:41:10,526 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:41:10,526 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:41:10,530 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:41:10,530 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:42:38,132 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:42:38,133 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:42:38,136 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:42:38,136 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:49:06,111 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:49:06,112 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:49:06,119 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:49:06,119 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:49:36,084 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:49:36,085 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:49:36,088 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:49:36,088 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:50:18,413 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:50:18,413 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:50:18,417 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:50:18,417 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:52:26,972 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:26,972 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:52:26,978 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:26,978 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:52:37,602 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:37,604 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:52:37,609 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:37,609 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:52:59,480 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:59,481 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:52:59,483 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:52:59,483 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:53:29,224 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:53:29,224 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:53:29,228 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:53:29,228 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:54:13,030 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:54:13,030 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:54:13,033 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:54:13,034 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:54:37,411 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:54:37,412 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:54:37,420 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:54:37,424 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 20:55:39,503 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:55:39,504 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 20:55:39,507 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 20:55:39,507 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:04:12,370 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:04:12,370 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:04:12,377 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:04:12,377 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:04:35,656 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:04:35,657 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:04:35,659 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:04:35,659 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:07:28,263 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:07:28,263 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:07:28,267 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:07:28,268 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:07:41,452 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:07:41,453 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:07:41,455 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:07:41,455 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:08:45,142 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:08:45,143 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:08:45,146 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:08:45,147 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:09:54,043 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:09:54,044 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:09:54,046 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:09:54,046 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:12:45,899 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:12:45,899 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:12:45,903 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:12:45,903 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:13:59,334 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:13:59,335 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:13:59,337 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:13:59,337 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:14:55,179 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:14:55,180 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:14:55,182 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:14:55,182 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:15:42,693 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:15:42,693 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:15:42,696 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:15:42,696 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:16:42,808 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:16:42,809 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:16:42,812 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:16:42,812 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:17:39,413 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:17:39,413 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:17:39,415 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:17:39,415 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:18:12,897 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:18:12,897 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:18:12,899 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:18:12,899 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:18:42,542 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:18:42,543 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:18:42,544 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:18:42,545 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:19:10,347 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:19:10,348 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:19:10,350 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:19:10,350 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
+2023-11-18 21:19:32,230 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:19:32,230 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\main\resources
+2023-11-18 21:19:32,234 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-18 21:19:32,234 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programacion\Java\Codo a Codo Java\New Workspace\ee\src\test\resources
