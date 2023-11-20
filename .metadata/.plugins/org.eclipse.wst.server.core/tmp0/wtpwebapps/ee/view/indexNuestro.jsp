@@ -6,7 +6,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Regalería - Home</title>
+<link rel="icon" href="../images/Logo Regal 1.png" type="image/png">
+
+<title>Regalerï¿½a - Home</title>
 
 <!-- Boostrap -->
 <link
@@ -77,10 +79,10 @@
 				<a class="nav-link" href="#">PRODUCTOS</a>
 			</div>
 			<div class="col">
-				<a class="nav-link" href="#">CÓMO COMPRAR</a>
+				<a class="nav-link" href="#">Cï¿½MO COMPRAR</a>
 			</div>
 			<div class="col">
-				<a class="nav-link" href="#">QUIÉNES SOMOS</a>
+				<a class="nav-link" href="#">QUIï¿½NES SOMOS</a>
 			</div>
 			<div class="col">
 				<a class="nav-link" href="#">CONTACTO</a>
@@ -107,11 +109,11 @@
 						<div class="row">
 							<div class="col-0 col-lg-4"></div>
 							<div class="col-12 col-lg-8 text-center text-lg-end">
-								<h5 class="fs-3">Mirá</h5>
-								<p>El termo y mate que estabas buscando está acá</p>
+								<h5 class="fs-3">Mirï¿½</h5>
+								<p>El termo y mate que estabas buscando estï¿½ acï¿½</p>
 								<div class="lg-4">
 									<a href="index.html#Termos" class="btn btn-outline-light">Ver
-										más</a> <a href="#" class="btn button fuente fs-6"
+										mï¿½s</a> <a href="#" class="btn button fuente fs-6"
 										onclick="agregarAlCarritoYMostrar('Combo ST', 20000)">Comprar</a>
 								</div>
 							</div>
@@ -124,11 +126,11 @@
 					<img src="cartera.jpeg" class="d-block w-100 " alt="...">
 					<div class="carousel-caption text-center text-lg-end d-md-block">
 
-						<h5 class="fs-3">Aprovechá</h5>
+						<h5 class="fs-3">Aprovechï¿½</h5>
 						<p>distintos modelos y en todos los colores</p>
 						<div class="lg-4">
 							<a href="index.html#Carteras" class="btn btn-outline-light">Ver
-								más</a>
+								mï¿½s</a>
 
 						</div>
 
@@ -672,7 +674,7 @@
 
 					<div class="col-4">
 						<h4
-							class="footer-title font-body text-uppercase fuente fs-6 text-center">Navegación</h4>
+							class="footer-title font-body text-uppercase fuente fs-6 text-center">Navegaciï¿½n</h4>
 						<ul class="text-center">
 							<li class="list-unstyled"><a
 								class="text-decoration-none text-dark" href="#">PRODUCTOS</a></li>
@@ -724,7 +726,7 @@
 							<li class="list-unstyled">+54 9 (numero de telefono)</li>
 							<li class="list-unstyled">Tp-integradorRegaleria@gmail.com</li>
 							<li class="list-unstyled">Direccion</li>
-							<li class="list-unstyled">Horarios de atención</li>
+							<li class="list-unstyled">Horarios de atenciï¿½n</li>
 						</ul>
 					</div>
 				</div>

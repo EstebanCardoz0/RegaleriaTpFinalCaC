@@ -6,7 +6,7 @@
 	//validar que el user y pass existan
 	// dar mensaje ok o error
 
-	String user=request.getParameter("mail");
+	String user=request.getParameter("user");
 	String pass=request.getParameter("pass");
 	
 	//out.println(user);
